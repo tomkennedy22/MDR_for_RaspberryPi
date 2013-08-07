@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name = MDR AutoStart
+Type = Application
+Exec = /home/pi/MDRStart.sh
